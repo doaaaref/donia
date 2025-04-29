@@ -1,0 +1,38 @@
+h1{
+    color: bisque;
+    text-align: center;
+}
+p{
+    font-size: medium;
+    color: navy;
+    font-size: larger;
+}
+
+#header{
+   
+    background-color: brown;
+   font: size 50px;
+   margin: 40px; 
+   border: black;    
+   border-style: dotted;
+   padding: 15px;
+   text-align: center;
+}
+*{
+    margin: 15px;	
+}
+
+#Geomatics{
+    background-color: darkcyan;
+    text-align: center;
+}
+.sub{
+    background-color: khaki;
+	display: inline-block;
+	width: 25%; 
+}
+style img align::first-line
+.container{
+    border: solid;
+    background-color: mediumturquoise;
+}
